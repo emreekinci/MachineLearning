@@ -1,0 +1,78 @@
+Ek Kaynak: Makaleler & Faydalı Linkler
+KURS BOYUNCA KULLANDIĞIMIZ KAYNAKLARIN LİNKLERİNE, KODLARA VE VERİ SETLERİNE (.ZİP) BURADAN ULAŞABİLİRSİNİZ !!!
+
+KURULUM: 
+
+Anaconda: https://www.anaconda.com/distribution/
+
+Keras: conda install -c conda-forge keras
+
+XGBoost: conda install -c anaconda py-xgboost
+
+Genel:
+
+Train Test Split: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+Standarsization: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
+Robust Scaler: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html
+
+Proje 1: Gögüs Kanseri Sınıflandırması
+
+Outlier detection with Local Outlier Factor: https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html#sphx-glr-auto-examples-neighbors-plot-lof-outlier-detection-py
+
+Local Outlier Factor: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html
+
+Local Outlier Factor: https://www.youtube.com/watch?v=vnoBkTa7arI
+
+Nearest Neighbors Classification: https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py
+
+Neighborhood Components Analysis: https://scikit-learn.org/stable/auto_examples/neighbors/plot_nca_classification.html#sphx-glr-auto-examples-neighbors-plot-nca-classification-py
+
+Neighborhood Components Analysis: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html#sklearn.neighbors.NeighborhoodComponentsAnalysis
+
+KNN: https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
+
+KNN: https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+
+PCA: https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.eig.html
+
+Proje 2: Ensemble Learning (Topluluk-Kolektif Öğrenme)
+
+Dataset: https://scikit-learn.org/stable/datasets/index.html
+
+SVM: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+KNN: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+DT: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+Random Forest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+Boosting: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+
+Voting Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html
+
+Ensemble: https://scikit-learn.org/stable/modules/ensemble.html
+
+CM: https://matplotlib.org/3.1.1/gallery/color/colormap_reference.html
+
+Proje 3: IMDB Duygu Analizi
+
+IMDB Data Set: https://keras.io/datasets/
+
+Proje 4: Araçların Yakıt Tüketimi Tahmini
+
+Regression: https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/?utm_source=blog&utm_medium=RideandLassoRegressionarticle
+
+Ridge and Lasso: https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/
+
+Ridge, Lasso and Elastic Net: https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net
+
+Box Cox Transformation: http://onlinestatbook.com/2/transformations/box-cox.html
+
+Log Transformations: http://onlinestatbook.com/2/transformations/log.html
+
+Skewness: https://towardsdatascience.com/skewed-data-a-problem-to-your-statistical-model-9a6b5bb74e37
+
+DATA: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
